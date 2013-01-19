@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:PageName}:
+	Icon: mysite/images/icons/${2:icon-url}.png
+	SingularName:${3:PageName}
+	Description: ${4:page description used on new page creation}
+	AllowedChildren: ${5:you can avoid childrens on this page}
+	AllowedInstances: ${6:how many pages with this class you can create on the cms}
+	${7:Fields:}
+		${0}		
+</string>
+	<key>name</key>
+	<string>FullPage</string>
+	<key>scope</key>
+	<string>source.yaml</string>
+	<key>tabTrigger</key>
+	<string>fullpage</string>
+	<key>uuid</key>
+	<string>44714D1A-EF59-49E5-B677-126981A7F808</string>
+</dict>
+</plist>

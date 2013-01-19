@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{CMSField: Image, UploadFolder: ${1:Upload-folder} ${2:,Tab: ${3:Upload-folder}}}</string>
+	<key>name</key>
+	<string>imagefield</string>
+	<key>scope</key>
+	<string>source.yaml</string>
+	<key>tabTrigger</key>
+	<string>if</string>
+	<key>uuid</key>
+	<string>1A34CC83-FD1D-47E1-841E-3D48AA6CFC04</string>
+</dict>
+</plist>

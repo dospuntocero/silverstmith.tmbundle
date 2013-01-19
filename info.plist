@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deleted</key>
+	<array>
+		<string>B2E04D05-8BF0-4ABC-83D6-4636177BA4C2</string>
+	</array>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>44714D1A-EF59-49E5-B677-126981A7F808</string>
+			<string>33CE84B8-DDC3-4A53-B6C0-CDEF2D5A2588</string>
+			<string>00DC3CB6-9EA6-47FB-8D89-AD5FE4793EC0</string>
+			<string>CB5435D6-1E98-423D-9E43-37F5B0068876</string>
+			<string>B55336A1-8827-40FF-A3A0-C11D241ED3EF</string>
+			<string>A3EBBE16-E3D6-47E4-A739-AE5F47476510</string>
+			<string>AB37C48C-578E-4E64-AA8D-4E1F179D95E1</string>
+			<string>D46EF223-1A7C-4516-B77E-EDDA21517F0C</string>
+			<string>1A34CC83-FD1D-47E1-841E-3D48AA6CFC04</string>
+			<string>7541ECDF-E52C-447C-900D-0ABD1A3D8552</string>
+			<string>8F565DD8-E4E1-496B-9ED5-0983B65CD1D6</string>
+			<string>F2F842FD-A816-4C14-AAF3-1ABF3ED7DF56</string>
+			<string>3A71A17B-7FA0-4BF7-865E-C8D0AD80920C</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>Silversmith</string>
+	<key>ordering</key>
+	<array>
+		<string>1A34CC83-FD1D-47E1-841E-3D48AA6CFC04</string>
+		<string>B55336A1-8827-40FF-A3A0-C11D241ED3EF</string>
+		<string>A3EBBE16-E3D6-47E4-A739-AE5F47476510</string>
+		<string>AB37C48C-578E-4E64-AA8D-4E1F179D95E1</string>
+		<string>44714D1A-EF59-49E5-B677-126981A7F808</string>
+		<string>D46EF223-1A7C-4516-B77E-EDDA21517F0C</string>
+		<string>00DC3CB6-9EA6-47FB-8D89-AD5FE4793EC0</string>
+		<string>33CE84B8-DDC3-4A53-B6C0-CDEF2D5A2588</string>
+		<string>CB5435D6-1E98-423D-9E43-37F5B0068876</string>
+		<string>7541ECDF-E52C-447C-900D-0ABD1A3D8552</string>
+		<string>8F565DD8-E4E1-496B-9ED5-0983B65CD1D6</string>
+		<string>F2F842FD-A816-4C14-AAF3-1ABF3ED7DF56</string>
+		<string>3A71A17B-7FA0-4BF7-865E-C8D0AD80920C</string>
+	</array>
+	<key>uuid</key>
+	<string>1291812F-2A97-47D7-84E7-2C6EA5615A74</string>
+</dict>
+</plist>

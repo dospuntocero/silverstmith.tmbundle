@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Components:
+	${1}:
+		Type: ${3: many/manymany}
+		Interface:
+		Type: ${4: checkboxes/grid/}
+</string>
+	<key>name</key>
+	<string>components</string>
+	<key>scope</key>
+	<string>source.yaml</string>
+	<key>tabTrigger</key>
+	<string>comp</string>
+	<key>uuid</key>
+	<string>CB5435D6-1E98-423D-9E43-37F5B0068876</string>
+</dict>
+</plist>

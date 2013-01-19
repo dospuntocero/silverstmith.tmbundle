@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{CMSField: Checkbox, Label: ${1:label}}</string>
+	<key>name</key>
+	<string>checkbox</string>
+	<key>scope</key>
+	<string>source.yaml</string>
+	<key>tabTrigger</key>
+	<string>cb</string>
+	<key>uuid</key>
+	<string>8F565DD8-E4E1-496B-9ED5-0983B65CD1D6</string>
+</dict>
+</plist>

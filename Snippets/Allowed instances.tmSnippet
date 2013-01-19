@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>AllowedInstances: ${1:how many pages with this class you can create on the cms}
+</string>
+	<key>name</key>
+	<string>Allowed instances</string>
+	<key>scope</key>
+	<string>source.yaml</string>
+	<key>tabTrigger</key>
+	<string>instances</string>
+	<key>uuid</key>
+	<string>00DC3CB6-9EA6-47FB-8D89-AD5FE4793EC0</string>
+</dict>
+</plist>

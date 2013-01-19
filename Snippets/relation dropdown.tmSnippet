@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{CMSField: RelationDropdown, Map: ${1:component-name} ${2:,Tab: ${3:Upload-folder}}}</string>
+	<key>name</key>
+	<string>relation dropdown</string>
+	<key>scope</key>
+	<string>source.yaml</string>
+	<key>tabTrigger</key>
+	<string>rdd</string>
+	<key>uuid</key>
+	<string>B55336A1-8827-40FF-A3A0-C11D241ED3EF</string>
+</dict>
+</plist>

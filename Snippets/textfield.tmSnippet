@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{CMSField: Text ${2:, Label: ${1:label}}}</string>
+	<key>name</key>
+	<string>textfield</string>
+	<key>scope</key>
+	<string>source.yaml</string>
+	<key>tabTrigger</key>
+	<string>tf</string>
+	<key>uuid</key>
+	<string>AB37C48C-578E-4E64-AA8D-4E1F179D95E1</string>
+</dict>
+</plist>

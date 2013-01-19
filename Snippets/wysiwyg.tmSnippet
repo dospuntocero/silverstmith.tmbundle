@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{CMSField: Wysiwyg, Label: ${1:label} ${2:,Tab: ${3:Upload-folder}}}</string>
+	<key>name</key>
+	<string>wysiwyg</string>
+	<key>scope</key>
+	<string>source.yaml</string>
+	<key>tabTrigger</key>
+	<string>wwg</string>
+	<key>uuid</key>
+	<string>F2F842FD-A816-4C14-AAF3-1ABF3ED7DF56</string>
+</dict>
+</plist>

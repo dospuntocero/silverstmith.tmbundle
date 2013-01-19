@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>CMSField: Dropdown
+Map:
+	- ${0}</string>
+	<key>name</key>
+	<string>dropdown</string>
+	<key>scope</key>
+	<string>source.yaml</string>
+	<key>tabTrigger</key>
+	<string>dd</string>
+	<key>uuid</key>
+	<string>A3EBBE16-E3D6-47E4-A739-AE5F47476510</string>
+</dict>
+</plist>
